@@ -1,15 +1,8 @@
-# Finanzo - A financial management tool
-
-<img src="pictures/login.png" alt="logo"/>
-
-# Why Finanzo?
-
-Just as a company needs to take care of their finances, so each individual must take responsibility for their finances
-if they want to make some progress in the financial field.
+# A financial app using T3
 
 # Features
 
-- Create/Delete yearly report 
+- Create/Delete yearly report
 - Create/Delete transaction item
 - Create/Delete upcoming payment
 - List all transactions by month
@@ -17,7 +10,7 @@ if they want to make some progress in the financial field.
 
 # Tech stack:
 
-T3 stack - https://init.tips/other
+T3 stack (TypeScript, Tailwind CSS, tRPC, Prisma, Next.js, React)
 
 ### Frontend:
 
@@ -90,5 +83,6 @@ $ pscale connect finanzo
 ```
 
 # Todo
+
 - [ ] add tests
 - [ ] add details when click on transaction
